@@ -1,0 +1,19 @@
+.highlight {
+    border-radius: 0.4rem;
+    color: white;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    font-size: 40px;
+  }
+  .bold {
+    padding-left: 1rem;
+    font-weight: 700;
+  }
+  .red {
+    background-color: purple;
+    color: white;
+    font-size: 25px;
+  }
+  .blue {
+    background-color: palevioletred;
+  }
